@@ -10,7 +10,7 @@ GitHub Random Repository Finder allows users to discover random repositories fro
 - **API:** GitHub REST API  
 
 ## States
-![image alt](https://github.com/haz4rl/Github-Repository-Finder/blob/main/screenshot4.png?raw=true)
+![Empty State](https://github.com/haz4rl/Github-Repository-Finder/blob/main/screenshot4.png?raw=true)
 ![image alt](https://github.com/haz4rl/Github-Repository-Finder/blob/main/screenshot3.png?raw=true)
 ![image alt](https://github.com/haz4rl/Github-Repository-Finder/blob/main/screenshot2.png?raw=true)
-
+![Error State](https://github.com/haz4rl/Github-Repository-Finder/blob/main/screenshot1.png?raw=true)
