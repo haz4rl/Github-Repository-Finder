@@ -2,6 +2,10 @@
 
 Find random GitHub repositories based on your selected programming language!
 
+## Project URL
+https://roadmap.sh/projects/github-random-repo
+
+
 ## Overview
 GitHub Random Repository Finder allows users to discover random repositories from GitHub based on whatever programming language you select. This project is built using **HTML, CSS and JavaScript**.
 
