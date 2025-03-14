@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Random Repository Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <div class="logo"></div>
+            <h1>GitHub Repository Finder</h1>
+        </div>
+
+        <select id="language">
+            <option value="">Select a Language</option>
+            <option value="javascript">JavaScript</option>
+            <option value="python">Python</option>
+            <option value="java">Java</option>
+            <option value="c++">C++</option>
+            <option value="rust">Rust</option>
+            <option value="ruby">Ruby</option>
+            <option value="swift">Swift</option>
+        </select>
+
+        <button id="find-btn" onclick="fetchRandomRepo()">Find Repository</button>
+
+        <div id="status-message" class="message hidden"></div>
+        <div id="repo-container" class="hidden"></div>
+
+    </div>
+    <div class="footer">
+        <h2>Project by Hazie Herbert</h2>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
